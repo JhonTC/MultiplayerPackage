@@ -1,0 +1,18 @@
+{
+    "name": "com.carp.multiplayer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4735ff57fa9a7a9469518d2e2af9237d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
